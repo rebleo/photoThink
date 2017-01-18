@@ -4,7 +4,6 @@ materials relating to photographic thinking. iterations of slide presentations a
 ![](/2016/data/click.png)
 
 ##
-** Something about making, as opposed to taking a photograph.
-** Something about: narrativing / animating /cinematizing life through cameras, computers, networks & decisions
+thesis: Something about making, as opposed to taking a photograph. Something about narrating / animating / cinematizing life through cameras, computers, networks & decisions
 
-![](/2016/data/reflect.png)
+![](/2016/data/reflect.jpg)
